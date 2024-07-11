@@ -7,19 +7,6 @@ O miniPaint opera diretamente no navegador. VocÃª pode criar imagens, colar da Ã
 ## URL:
 **https://viliusle.github.io/miniPaint/**
 
-## Preview:
-![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
-(generated using miniPaint)
-
-**Change log:** [/miniPaint/releases](https://github.com/viliusle/miniPaint/releases)
-
-## Browser Support
-- Chrome
-- Firefox
-- Opera
-- Edge
-- Safari
-
 ## Features
 
 - **Files**: open images, directories, URL, data URL, drag and drop, save (PNG, JPG, BMP, WEBP, animated GIF, TIFF, JSON 
@@ -41,19 +28,6 @@ To embed this app in the other page, use this HTML code:
 
     <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://viliusle.github.io/miniPaint/" allow="camera"></iframe>
 
-## Build instructions
-See [Wiki > Build instructions](https://github.com/viliusle/miniPaint/wiki/Build-instructions)
 
-## Wiki
-See [Wiki](https://github.com/viliusle/miniPaint/wiki)
 
-## Contributors
-<a align="center" href="https://github.com/viliusle/miniPaint/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=viliusle/miniPaint" />
-</a>
 
-## License
-MIT License
-
-## Support
-Please use the GitHub issues for support, features, issues or use mail www.viliusl@gmail.com for contacts.
