@@ -1,12 +1,8 @@
 # miniPaint
 
-Online image editor lets you create, edit images using HTML5 technologies.
-No need to buy, download, install or have obsolete flash. No ads.
-Key features: layers, filters, HTML5, open source, Photoshop alternative.
+O editor de imagens online permite que você crie e edite imagens usando tecnologias HTML5. Não é preciso comprar, baixar, instalar ou ter flash obsoleto. Sem anúncios. Principais recursos: camadas, filtros, HTML5, código aberto, alternativa ao Photoshop.
 
-miniPaint operates directly in the browser. You can create images, paste from the clipboard (ctrl+v) 
-or upload from the computer (using menu or drag & drop). Nothing will be sent to any server. Everything stays in your 
-browser. 
+O miniPaint opera diretamente no navegador. Você pode criar imagens, colar da área de transferência (ctrl+v) ou fazer upload do computador (usando menu ou arrastar e soltar). Nada será enviado para nenhum servidor. Tudo fica no seu navegador.
 
 ## URL:
 **https://viliusle.github.io/miniPaint/**
