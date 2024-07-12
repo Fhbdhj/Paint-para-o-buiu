@@ -5,7 +5,7 @@ O editor de imagens online permite que você crie e edite imagens usando tecnolo
 O miniPaint opera diretamente no navegador. Você pode criar imagens, colar da área de transferência (ctrl+v) ou fazer upload do computador (usando menu ou arrastar e soltar). Nada será enviado para nenhum servidor. Tudo fica no seu navegador.
 
 ## URL:
-**https://viliusle.github.io/miniPaint/**
+**https://fhbdhj.github.io/paint-para-o-buiu-/.com.br**
 
 ## **funcionalidades**
 
