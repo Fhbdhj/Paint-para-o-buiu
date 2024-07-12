@@ -7,27 +7,17 @@ O miniPaint opera diretamente no navegador. Você pode criar imagens, colar da �
 ## URL:
 **https://viliusle.github.io/miniPaint/**
 
-## Features
+## **funcionalidades**
 
-- **Files**: open images, directories, URL, data URL, drag and drop, save (PNG, JPG, BMP, WEBP, animated GIF, TIFF, JSON 
-(layers data), print.
-- **Edit**: Undo, cut, copy, paste, selection, paste from clipboard.
-- **Image**: information, EXIF, trim, zoom, resize (Hermite resample, default resize), rotate, flip, 
-color corrections (brightness, contrast, hue, saturation, luminance), auto adjust colors, grid, histogram, negative.
-- **Layers**: multiple layers system, differences, merge, flatten, Transparency support.
-- **Effects**: Black and White, Blur (box, Gaussian, stack, zoom), Bulge/Pinch, Denoise, Desaturate, Dither, Dot Screen, 
-Edge, Emboss, Enrich, Gamma, Grains, GrayScale, Heatmap, JPG Compression, Mosaic, Oil, Sepia, Sharpen, Solarize, 
-Tilt Shift, Vignette, Vibrance, Vintage, Blueprint, Night Vision, Pencil, also Instagram Filters: 1977, Aden, Clarendon, 
-Gingham, Inkwell, Lo-fi, Toaster, Valencia, X-Pro II.
-- **Tools**: pencil, brush, magic wand, erase, fill, color picker, letters, crop, blur, sharpen, desaturate, clone,
- borders, sprites, key-points, color zoom, replace color, restore alpha, content fill.
-- **Help**: keyboard shortcuts, translations.
+** Arquivos ** : abrir imagens, diretórios, URL, URL de dados, arrastar e soltar, salvar (PNG, JPG, BMP, WEBP, GIF animado, TIFF, JSON (dados de camadas), imprimir.
 
-## Embed
-To embed this app in the other page, use this HTML code:
+** Editar ** : Desfazer, cortar, copiar, colar, selecionar, colar da área de transferência.
 
-    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://viliusle.github.io/miniPaint/" allow="camera"></iframe>
+** Imagem ** : informações, EXIF, aparar, zoom, redimensionar (reamostragem Hermite, redimensionamento padrão), girar, inverter, correções de cor (brilho, contraste, matiz, saturação, luminância), ajuste automático de cores, grade, histograma, negativo.
 
-
+** Camadas ** : sistema de múltiplas camadas, diferenças, mesclagem, achatamento, suporte a transparência.
+Efeitos : Preto e branco, Desfoque (caixa, gaussiano, pilha, zoom), Protuberância/pinça, Redução de ruído, Dessaturação, Pontilhamento, Tela de pontos, Borda, Relevo, Enriquecer, Gama, Grãos, Escala de cinza, Mapa de calor, Compressão JPG, Mosaico, Óleo, Sépia, Nitidez, Solarização, Inclinação, Vinheta, Vibração, Vintage, Planta baixa, Visão noturna, Lápis, também Filtros do Instagram: 1977, Aden, Clarendon, Gingham, Inkwell, Lo-fi, Toaster, Valencia, X-Pro II.
+Ferramentas : lápis, pincel, varinha mágica, apagar, preencher, seletor de cores, letras, cortar, desfocar, aumentar a nitidez, dessaturar, clonar, bordas, sprites, pontos-chave, zoom de cor, substituir cor, restaurar alfa, preenchimento de conteúdo.
+Ajuda : atalhos de teclado, traduções.
 
 
